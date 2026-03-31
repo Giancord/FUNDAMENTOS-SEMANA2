@@ -1,2 +1,3 @@
-print("Este es el archivo principal")
+print("FUNDAMENTOS DE ALGORITMOS")
 print("Hola")
+print("Mensaje de bienvenida")
